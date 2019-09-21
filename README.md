@@ -1,2 +1,2 @@
 # closure-node
-implementação de closure no JS
+Implementação de closure no NodeJS
